@@ -1,0 +1,2 @@
+Iterative Statement in JavaScript- Looping in Programming language is a feature that facilitates the execution of a set of instructions or functions repeatedly while some condition evaluates to true. For example, suppose we want to print "Hello World" for ten times. This can be done in two ways like: 
+Iterative Method: The iterative method to do this is to write the console.log() statement ten times.
